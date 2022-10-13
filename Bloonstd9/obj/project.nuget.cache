@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKjolyCZNJgGDfcRpQfZa/q2XHHajL75Iesojdp98zApnvxzsTPmz6BupWf5xPrzlQwC8PBSETCETcY7S6K3Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hugo.zingmark\\Desktop\\VS\\Bloonstd9\\Bloonstd9\\Bloonstd9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo.zingmark\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\Hugo.zingmark\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
